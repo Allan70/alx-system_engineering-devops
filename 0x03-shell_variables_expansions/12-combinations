@@ -1,2 +1,2 @@
-VimCrypt~03!êÿG0õZjòn}”ñÅs³ÝW#XêyA¨Üß•„›
-G^oDX–Ú:ëœÂê†uDrXÀ6ÓéS­ZÊƒ«(¹Q;á}
+#!/bin/bash
+echo {a..z}{a..z} | tr " " "\n" | grep -v "oo"
