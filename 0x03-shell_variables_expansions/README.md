@@ -1,4 +1,4 @@
-# 0x0
+# 0x03 Shell Variables expansions
 
 
 The following is a list of executable files and what operations they perform.
@@ -17,16 +17,25 @@ The following is a list of executable files and what operations they perform.
 
 6-create_local
 
-7-
+7-create_global_variable
 
-8-
+8-true_knowlegde
 
-9-
+9-divide_and_rule
 
-10-
+10-love_exponent_breath
 
-11-
+11-binary_to_decimal
 
-12-
+12-combinations
 
-13-
+13-print_float
+
+100-decimal_to_hexadecimal
+
+101-rot13
+
+102-odd
+
+103-water_and_stir
+
